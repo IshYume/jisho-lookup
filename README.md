@@ -1,0 +1,1 @@
+A simple extension that allows users to look up words using the right-click context menu and open them on Jisho.org. This project is not affiliated with Jisho.org in any way and is completely unofficial.
