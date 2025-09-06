@@ -1,0 +1,13 @@
+# Node stuff (if you add npm later)
+node_modules/
+npm-debug.log
+
+# Build output
+dist/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Zip packages
+*.zip
